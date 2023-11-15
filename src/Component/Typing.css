@@ -1,0 +1,9 @@
+.typing-box {
+    transform: scale(1); 
+    transition: transform 0.3s ease; 
+  }
+  
+  .typing-box:hover {
+    transform: scale(1); 
+  }
+  
